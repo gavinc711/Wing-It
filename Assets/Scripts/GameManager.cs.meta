@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c7f13768956683c48834184212ae7b76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {instanceID: 0}
+  - enemyOnePrefab: {fileID: 8997457525734203288, guid: 5550b8d7b1f8cba429c750e3e6de47e8, type: 3}
+  - enemyTwoPrefab: {fileID: 1772501088048143204, guid: ab33f1dca64c7834da1bef4bc1351a36, type: 3}
+  - enemyThreePrefab: {fileID: 1772501088048143204, guid: be5662446da5b3143be278c1dd430780, type: 3}
+  - bossPrefab: {fileID: 1772501088048143204, guid: 04adea08f477af24daf730954e1880f2, type: 3}
+  - cloudPrefab: {fileID: 7221467765601026363, guid: 2d4846f5163953643a28d3504e8bf67c, type: 3}
+  - gameOverSet: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - roundText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
